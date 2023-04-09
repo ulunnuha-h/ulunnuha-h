@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanif Ulunnuha Hidayat</h1>
-<h3 align="center">A passionate MERN Fullstack developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
-- 🌱 I’m currently learning **MERN Fullstack**
+- 🌱 I’m currently learning **Express JS and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://ulunnuha.netlify.app/](https://ulunnuha.netlify.app/)
 
